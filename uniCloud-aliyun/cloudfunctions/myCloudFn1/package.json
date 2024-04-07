@@ -1,0 +1,7 @@
+{
+  "name": "myCloudFn1",
+  "dependencies": {},
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}
